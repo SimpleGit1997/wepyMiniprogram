@@ -5,6 +5,7 @@
 
 下载完成之后
 ```console
+npm install wepy-cli -g
 npm install
 ```
 项目中提供了开发环境和生产环境，分别在config文件中，可根据自己的服务修改请求地址
