@@ -10,7 +10,7 @@
   "author": "Songjp <819086641@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "wepy": "^1.6.0",
     "wepy-async-function": "^1.4.4",
     "wepy-com-toast": "^1.0.2"
